@@ -32,7 +32,8 @@
 </beans>`
 
 ## ClassicalMusic
-`package org.example;  
+`
+package org.example;  
   
 public class ClassicalMusic implements Music {  
   
@@ -50,7 +51,8 @@ public class ClassicalMusic implements Music {
 
 ## TestSpring
 
-`package org.example;  
+`
+package org.example;  
   
 import org.springframework.context.support.ClassPathXmlApplicationContext;  
   

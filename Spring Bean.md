@@ -14,3 +14,5 @@
 
 ![[Screenshot_2025-06-22-20-18-45-219_org.telegram.messenger.png]]
 
+## applicationContext
+![[applicationContext.xml]]
